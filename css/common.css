@@ -1169,6 +1169,14 @@ header label {
 	text-align:justify;
 		
 	}
+
+		#ghBookingtop h3 {
+		margin: 0 0 5px 0;
+		font-weight: 400;
+		font-size: 16px;
+		font-weight: 400;
+		color: #666;
+	}
 	
 	
 	.featured-work_2 {

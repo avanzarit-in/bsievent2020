@@ -12,6 +12,11 @@ WD : CPG
 ================================
 
 */
+
+html {
+	scroll-behavior: smooth;
+  }
+  
 body{
 	
 	font-size:15px;
@@ -625,7 +630,10 @@ header label {
 #aboutsection{
 		background-color: #fff;
 	}
-
+	#aboutsection1{
+		background-color: #f7f7f7;
+	}
+	
 .title-six{
 	margin: 0px;
     padding: 0px;
@@ -1069,6 +1077,23 @@ header label {
 		margin-bottom: 20px;
 		font-family: tahoma, helvetica, arial, sans-serif;
 	}
+	#aboutsection1 h3 {
+		margin: 0 0 5px 0;
+		font-weight: 400;
+		font-size: 16px;
+		font-weight: 400;
+		color: #666;
+	}
+		
+	#aboutsection1 h2 {
+		letter-spacing: -.03em;
+		line-height: 1.3;
+		text-align:center;
+		font-weight: 400;
+		margin-bottom: 20px;
+		font-family: tahoma, helvetica, arial, sans-serif;
+	}
+
 	.featured-box-col2 i {
 		font-size: 16px;
 		padding-right: 10px;
